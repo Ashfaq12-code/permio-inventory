@@ -1,0 +1,15 @@
+{
+  "admin": null,
+  "users": [
+    {
+      "username": "rizlan12",
+      "verified": false
+    },
+    {
+      "username": "ashfaq001",
+      "verified": false,
+      "password": "$2b$10$hAE06NYdAKte7pVGMBxRCeEct3x8rH7Q4cCTqoBqgM34gzx.v.O2."
+    }
+  ],
+  "products": []
+}
